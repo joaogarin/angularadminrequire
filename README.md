@@ -1,4 +1,4 @@
-<h3>An angular js admin app.</h3>
+<h3>A Fork of the angular js admin app with integration for requirejs.</h3>
 
 Uses several charing libraries including : 
 
