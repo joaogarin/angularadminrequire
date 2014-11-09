@@ -5,16 +5,12 @@ define(['angular',
     'rocha',
     'services'],function(angular,_){
 
-    console.log("controllers definition");
-
     /**************************
      Application controllers
      **************************/
 
     angular.module("app.controllers", []).controller("AdminAppCtrl", ["$scope", "$location",
             function($scope, $location) {
-
-                console.log("FirstCtrl");
 
                 $scope.checkIfOwnPage = function() {
 
