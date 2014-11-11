@@ -26,7 +26,7 @@ requirejs.config({
     },
     waitSeconds: 0,
 
-    baseUrl: '/angularAdmin',
+    baseUrl: '/angularAdminRequire',
 
     shim: {
         'angular': {'exports': 'angular'},
